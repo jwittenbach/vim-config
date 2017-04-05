@@ -1,5 +1,15 @@
 # vim-config
 
+This repository contains the information for my terminal-based development environment on a Mac.
+
+The components:
+- os: MacOS
+- terminal: iTerm2
+- terminal multiplexer: tmux
+- Text Editor: Vim
+- Vim plugin manager: pathogen
+
+The setup:
 1. Install pathogen to manage vim packages: https://github.com/tpope/vim-pathogen
 2. Install the following packages (by cloning the repo into '~/.vim/bundle'):
 	- SimpylFold (text folding): https://github.com/tmhedberg/SimpylFold
