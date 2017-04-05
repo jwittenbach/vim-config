@@ -9,3 +9,5 @@
 	- vim-tmux-navigator (allow tmux pane changes inside vim): https://github.com/christoomey/vim-tmux-navigator
 3. Configure vim and the packages we just installed in '~/.vimrc'
 4. Configure tmux in '~/.tmux.conf'
+5. Configure commandline prompt in '~/.bash_profile'
+6. Configure iTerm2 (in the 'Colors' tab of the Profile Editor) to use desired colorscheme: https://github.com/chriskempson/base16-iterm2
